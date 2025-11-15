@@ -7,6 +7,8 @@ I'm 26 old beginner QA-engineer
 
 I completed a Yandex course as a QA Engineer. I dream of finding a job in this field.
 
+A technology stack that i've already had the opportunity to work closely with: Postman, Android Studio, Jira, Yandex.Tracker, DevTools, Figma. Another technology stack: PostgreSQL, Charles, Git.
+
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [https://t.me/kmurzilkina](mailto:https://t.me/kmurzilkina)
 
