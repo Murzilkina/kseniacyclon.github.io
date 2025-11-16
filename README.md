@@ -1,9 +1,8 @@
-# kseniacyclon.github.io
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kseniya Kulakova
 =========================================================================================================================================
 
-I'm 26 old beginner QA-engineer
--------------------------------
+I'm 26 years old beginner QA-engineer
+-------------------------------------
 
 I completed a Yandex course as a QA Engineer. I dream of finding a job in this field.
 
