@@ -1,1 +1,1 @@
-<img src="[https://github.com/Shvarikova-Elena/Yandex.Scooter/blob/main/pics/Часть%20формы_Заказ%20самоката.jpg](https://github.com/Murzilkina/kseniacyclon.github.io/blob/main/pics/apidoc.jpg)" width=50% height=50%> <br />
+
