@@ -13,9 +13,11 @@ You Creator - это ИИ-конструктор, который за 20 мин�
 Инструменты: Документация заказчика <br />  
 
 ⏺︎ **Тест-дизайн** <br />  
-Мне необходимо было протестировать:
-- [Проверка скорости загрузки страниц до авторизации и после авторизации](https://docs.google.com/spreadsheets/d/1M_E-ned5svl84IuH5gKdjMKYV1k0h4Xdj0wjUTB3v8o/edit?gid=0#gid=0)
-- [Проверка корректности фильтров и отчётности (аналитика  и управление)](https://docs.google.com/spreadsheets/d/1M_E-ned5svl84IuH5gKdjMKYV1k0h4Xdj0wjUTB3v8o/edit?gid=883977906#gid=883977906)
-- [Проверка стабильности добавления уроков, заданий, встроенных материалов](https://docs.google.com/spreadsheets/d/1M_E-ned5svl84IuH5gKdjMKYV1k0h4Xdj0wjUTB3v8o/edit?gid=1838688302#gid=1838688302) <br />
+Мои усилия по обеспечению качества были нацелены на ключевые метрики бизнеса: повышение надежности загрузки материалов и точности аналитики, что позволило сократить издержки и увеличить доход. За время работы над проектом я:
+- [Проверила скорость загрузки страниц до авторизации и после авторизации](https://docs.google.com/spreadsheets/d/1M_E-ned5svl84IuH5gKdjMKYV1k0h4Xdj0wjUTB3v8o/edit?gid=0#gid=0)
+- [Проверила корректность фильтров и отчётности (аналитика  и управление)](https://docs.google.com/spreadsheets/d/1M_E-ned5svl84IuH5gKdjMKYV1k0h4Xdj0wjUTB3v8o/edit?gid=883977906#gid=883977906)
+- [Проверила стабильность добавления уроков, заданий, встроенных материалов](https://docs.google.com/spreadsheets/d/1M_E-ned5svl84IuH5gKdjMKYV1k0h4Xdj0wjUTB3v8o/edit?gid=1838688302#gid=1838688302) <br />
 
-### В результате тестирования приложения было выявлено 3 бага, на каждый был составлен четкий и понятный баг-репорт. Ознакомиться с ними можно [здесь](https://docs.google.com/spreadsheets/d/1M_E-ned5svl84IuH5gKdjMKYV1k0h4Xdj0wjUTB3v8o/edit?gid=11242476#gid=11242476)
+Также, провела exploratory тестирование, так как мне показалось, что данный продукт может быть лучше. Ознакомиться можно [здесь](https://docs.google.com/document/d/1SQeP6h2bLXedBFkEQXrY8-5v965cEH8DKjiTtwEbUY4/edit?tab=t.0) <br />  
+
+### В результате тестирования приложения было выявлено 3 бага, на каждый был составлен четкий и понятный баг-репорт. Ознакомиться с ними можно [здесь](https://docs.google.com/spreadsheets/d/1M_E-ned5svl84IuH5gKdjMKYV1k0h4Xdj0wjUTB3v8o/edit?gid=11242476#gid=11242476) <br />  
